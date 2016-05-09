@@ -1,7 +1,7 @@
 touch README.md
 git init
 git add README.md
-git commit -m "comenario"
+git commit -m "comentario"
 git remote add origin https://github.com/User/Repositorio.git
 git push -u origin master (Error:git push -f origin master)
 git add archivo
