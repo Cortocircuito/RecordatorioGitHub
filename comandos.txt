@@ -1,0 +1,10 @@
+touch README.md
+git init
+git add README.md
+git commit -m "comenario"
+git remote add origin https://github.com/User/Repositorio.git
+git push -u origin master (Error:git push -f origin master)
+git add archivo
+git commit -m "comentario"
+git push
+git pull origin master
